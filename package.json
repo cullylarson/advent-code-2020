@@ -1,0 +1,11 @@
+{
+  "name": "advent-code-2020",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "Cully Larson",
+  "dependencies": {
+    "@cullylarson/f": "^0.1.2",
+    "@cullylarson/p": "^0.1.0"
+  }
+}
