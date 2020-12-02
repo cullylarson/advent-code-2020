@@ -2,10 +2,15 @@
   "name": "advent-code-2020",
   "version": "1.0.0",
   "description": "",
-  "scripts": {},
+  "scripts": {
+    "lint": "esw --watch --color ."
+  },
   "author": "Cully Larson",
   "dependencies": {
     "@cullylarson/f": "^0.1.2",
-    "@cullylarson/p": "^0.1.0"
+    "@cullylarson/p": "^0.1.0",
+    "eslint": "^7.14.0",
+    "eslint-watch": "^7.0.0",
+    "standard": "^16.0.3"
   }
 }
