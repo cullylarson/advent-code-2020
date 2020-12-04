@@ -4,6 +4,6 @@
 
 ```
 npm install
-cd day01-1
+cd day01-a
 node solve.js
 ```
